@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitSetupDemo</string>
+    <string name="title_activity_show_all_users">ShowAllUsers</string>
+</resources>
