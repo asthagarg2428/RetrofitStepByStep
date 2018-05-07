@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="astha.retrofitsetupdemo.ShowAllUsers"
+    tools:context=".ShowAllUsersActivity"
     tools:showIn="@layout/activity_show_all_users">
     <android.support.v7.widget.RecyclerView
         android:id="@+id/all_users_recycler_view"
